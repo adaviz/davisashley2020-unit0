@@ -1,9 +1,13 @@
+//  Ashley Davis
+//  COP4655 Mobile Apps Projects
+//  Homework 0
 //
 //  ViewController.swift
 //  CodePathPrework
-//
 //  Created by student on 8/28/22.
 //
+//
+
 
 import UIKit
 
@@ -17,22 +21,20 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
     }
 
     @IBAction func calculateTip(_ sender: Any) {
-        let bill = Double(billAmountTextField.text!) ?? 0
-        
-        //Get Total tip by multiplying tip * tipPercentage
-        let tipPercentages = [0.18, 0.20, 0.22]
-        let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
-        let total = bill + tip
-        
-        //Update Tip Amount Label
-        tipAmountLabel.text = String(format: "$%.2f", tip)
-        //Update Total Amount
-        totalLabel.text = String(format: "$%.2f", total)
-        
+            let bill = Double(billAmountTextField.text!) ?? 0
+            
+            //Get Total tip by multiplying tip * tipPercentage
+            let tipPercentages = [0.18, 0.20, 0.22]
+            let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
+            let total = bill + tip
+            
+            //Update Tip Amount Label
+            tipAmountLabel.text = String(format: "$%.2f", tip)
+            //Update Total Amount
+            totalLabel.text = String(format: "$%.2f", total)
     }
     
 }
