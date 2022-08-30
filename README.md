@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<iframe src="https://giphy.com/embed/RyBhkHyutWTcF9xAi1" width="276" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RyBhkHyutWTcF9xAi1">via GIPHY</a></p>
 <img src='[http://www.giphy.com/gifs/RyBhkHyutWTcF9xAi1](http://www.giphy.com/gifs/RyBhkHyutWTcF9xAi1)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
