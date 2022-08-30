@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src=https://giphy.com/embed/RyBhkHyutWTcF9xAi1 alt='Video Walkthrough' />
+![tipsyCalc](https://user-images.githubusercontent.com/85644278/187333363-32753e2d-58cb-42ef-a575-9d05a439596a.gif)
 
 
 
