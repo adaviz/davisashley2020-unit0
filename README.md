@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=<iframe src="https://giphy.com/embed/RyBhkHyutWTcF9xAi1" width='' alt='Video Walkthrough' />
+<iframe src=https://giphy.com/embed/RyBhkHyutWTcF9xAi1 alt='Video Walkthrough' />
 
 
 
