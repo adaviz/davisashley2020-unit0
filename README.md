@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://www.giphy.com/gifs/RyBhkHyutWTcF9xAi1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://www.giphy.com/gifs/RyBhkHyutWTcF9xAi1](http://www.giphy.com/gifs/RyBhkHyutWTcF9xAi1)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
