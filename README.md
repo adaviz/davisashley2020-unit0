@@ -1,4 +1,4 @@
-# davisashley2020-unit0
+# Davis-Ashley-HW0
 This is an iOS tip calculator. The user inserts the bill amount and the app has a selection of adding 18%, 20%, or 22% gratuity to the bill. The app then generates the total amount of the bill with tip included.
 
 # Pre-work - Tipsy Calculator
